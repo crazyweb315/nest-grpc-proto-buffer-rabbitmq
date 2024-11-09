@@ -12,5 +12,5 @@
   <img src = "./images/diagram.png">
 ## Stay in touch
 
-- Author - [Mario Casila]
-- Email - maria.casila.94@gmail.com
+- Author - [Yong Yi Wong]
+- Email - yongyiwang.fullstack@gmail.com
